@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora Combustivel</string>
+    <string-array name = "tipos_combustivel">
+        <item>Gasolina</item>
+        <item>Álcool</item>
+        <item>Diesel</item>
+    </string-array>
+
+    <string-array name="formas_pagamento">
+        <item>Crédito</item>
+        <item>Débito</item>
+        <item>PIX</item>
+        <item>Espécie</item>
+    </string-array>
+</resources>

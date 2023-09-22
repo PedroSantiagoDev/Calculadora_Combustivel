@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="primeiroMenu" type="id" />
+    <item name="edPrecoLitro" type="id" />
+    <item name="textView8" type="id" />
+    <item name="edLitros" type="id" />
+    <item name="textView7" type="id" />
+    <item name="segundoMenu" type="id" />
+    <item name="btnCalcular" type="id" />
+    <item name="tvResultado" type="id" />
+    <item name="btnLimparCampos" type="id" />
+</resources>
